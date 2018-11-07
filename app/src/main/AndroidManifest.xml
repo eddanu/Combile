@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.herry.combile">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logokosong"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logokosong"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignUpVolunteerActivity" />
+        <activity android:name=".SignUpOrganization2Activity" />
+        <activity android:name=".SignInActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".SignUpOrganization1Activity" />
+        <activity android:name=".SignUpOrganization1Activity" />
+        <activity android:name=".tes"></activity>
+    </application>
+
+</manifest>
