@@ -37,7 +37,7 @@ public class Validation {
 
     public static final Pattern NOHP_PATTERN =
             Pattern.compile("^" +
-                    "[0-9]{8,12}" +                  //harus angka
+                    "[0-9]{9,12}" +                  //harus angka
                     "$"
             );
 

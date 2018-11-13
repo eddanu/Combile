@@ -13,13 +13,13 @@ public class SignUpActivity extends AppCompatActivity {
         setContentView(R.layout.activity_signup);
     }
 
-    public void signUpVolunteerClickBtn(View v){
-        Intent intentSignUpVolunteer = new Intent(getBaseContext(),SignUpVolunteerActivity.class);
+    public void signUpVolunteerClickBtn(View v) {
+        Intent intentSignUpVolunteer = new Intent(getBaseContext(), SignUpVolunteerActivity.class);
         startActivity(intentSignUpVolunteer);
     }
 
-    public void signUpOrganizationClickBtn (View v){
-        Intent intentSignUpOrganization = new Intent (getBaseContext(), SignUpOrganization1Activity.class);
+    public void signUpOrganizationClickBtn(View v) {
+        Intent intentSignUpOrganization = new Intent(getBaseContext(), SignUpOrganizationActivity.class);
         startActivity(intentSignUpOrganization);
     }
 

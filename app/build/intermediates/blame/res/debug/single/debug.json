@@ -436,12 +436,12 @@
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90afa01d46b31e13eccd2425fa5addcf\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
-        "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90afa01d46b31e13eccd2425fa5addcf\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c605eee0abf5ffe4f7dcd0288ee7eb17\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90afa01d46b31e13eccd2425fa5addcf\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
@@ -494,10 +494,6 @@
     {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90afa01d46b31e13eccd2425fa5addcf\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_organization1.xml.flat",
-        "source": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\src\\main\\res\\layout\\activity_signup_organization1.xml"
     },
     {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -740,6 +736,10 @@
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\1d6906a0ac836ddfc72c17e5546ac8a7\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
+        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_organization.xml.flat",
+        "source": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\src\\main\\res\\layout\\activity_signup_organization.xml"
+    },
+    {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\1d6906a0ac836ddfc72c17e5546ac8a7\\res\\drawable-v21\\notification_action_background.xml"
     },
@@ -872,10 +872,6 @@
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c605eee0abf5ffe4f7dcd0288ee7eb17\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
     },
     {
-        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_organization2.xml.flat",
-        "source": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\src\\main\\res\\layout\\activity_signup_organization2.xml"
-    },
-    {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -936,12 +932,12 @@
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c605eee0abf5ffe4f7dcd0288ee7eb17\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90afa01d46b31e13eccd2425fa5addcf\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dr_pic_calender.png.flat",
         "source": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\src\\main\\res\\drawable\\dr_pic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90afa01d46b31e13eccd2425fa5addcf\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1014,10 +1010,6 @@
     {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Herry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90afa01d46b31e13eccd2425fa5addcf\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tes.xml.flat",
-        "source": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\src\\main\\res\\layout\\activity_tes.xml"
     },
     {
         "merged": "C:\\Users\\Herry\\AndroidStudioProjects\\Combile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",

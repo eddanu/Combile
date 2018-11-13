@@ -17,12 +17,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".SignUpVolunteerActivity" />
-        <activity android:name=".SignUpOrganization2Activity" />
         <activity android:name=".SignInActivity" />
         <activity android:name=".SignUpActivity" />
         <activity android:name=".SignUpOrganization1Activity" />
         <activity android:name=".SignUpOrganization1Activity" />
-        <activity android:name=".tes"></activity>
+        <activity android:name=".SignUpOrganizationActivity"></activity>
     </application>
 
 </manifest>

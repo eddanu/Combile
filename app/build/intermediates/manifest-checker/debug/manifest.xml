@@ -26,11 +26,11 @@
             </intent-filter>
         </activity>
         <activity android:name="com.android.herry.combile.SignUpVolunteerActivity" />
-        <activity android:name="com.android.herry.combile.SignUpOrganization2Activity" />
         <activity android:name="com.android.herry.combile.SignInActivity" />
         <activity android:name="com.android.herry.combile.SignUpActivity" />
         <activity android:name="com.android.herry.combile.SignUpOrganization1Activity" />
         <activity android:name="com.android.herry.combile.SignUpOrganization1Activity" />
+        <activity android:name="com.android.herry.combile.SignUpOrganizationActivity" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

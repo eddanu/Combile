@@ -72,16 +72,14 @@ public class SignUpVolunteerActivity extends AppCompatActivity {
 
                 String date = "mm-dd-yyyy";
 
-                if (day <= 9 & month >= 10){
+                if (day <= 9 & month >= 10) {
                     date = "0" + day + "-" + month + "-" + year;
-                }
-                else if (month <= 9 & day >=10) {
+                } else if (month <= 9 & day >= 10) {
                     date = day + "-" + "0" + month + "-" + year;
-                }else if (month <= 9 & day <=9){
+                } else if (month <= 9 & day <= 9) {
                     date = "0" + day + "-" + "0" + month + "-" + year;
-                }
-                else {
-                    date = day + "-" + month  + "-" + year;
+                } else {
+                    date = day + "-" + month + "-" + year;
                 }
 
 
@@ -114,6 +112,9 @@ public class SignUpVolunteerActivity extends AppCompatActivity {
         if (emailInput.isEmpty()) {
             textInputEmail.setError("Email harus diisi");
             return false;
+        } else if (!Validation.EMAIL_PATTERN.matcher(emailInput).matches()) {
+            textInputEmail.setError("Format email salah");
+            return false;
         } else {
             textInputEmail.setError(null);
             return true;
@@ -126,9 +127,9 @@ public class SignUpVolunteerActivity extends AppCompatActivity {
         if (dobInput.isEmpty()) {
             textInputDOB.setError("Tanggal lahir harus diisi");
             return false;
-       // } else if (Validation.DOB_PATTERN.matcher(textInputDOB).matches()){
-          //  textInputDOB.setError("Format tanggal salah");
-          //..  return false;
+        } else if (!Validation.DOB_PATTERN.matcher(dobInput).matches()) {
+            textInputDOB.setError("Format tanggal salah");
+            return false;
         } else {
             textInputDOB.setError(null);
             return true;
@@ -141,7 +142,7 @@ public class SignUpVolunteerActivity extends AppCompatActivity {
         if (noHpInput.isEmpty()) {
             textInputNoHP.setError("Nomor HP harus diisi");
             return false;
-        } else if (!Validation.NOHP_PATTERN.matcher(noHpInput).matches()){
+        } else if (!Validation.NOHP_PATTERN.matcher(noHpInput).matches()) {
             textInputNoHP.setError("Nomor HP salah");
             return false;
         } else {
@@ -172,9 +173,9 @@ public class SignUpVolunteerActivity extends AppCompatActivity {
             return;
         } else if (!validateDOB()) {
             return;
-        }else if (!validateNoHP()) {
+        } else if (!validateNoHP()) {
             return;
-        }else if (!validatePassword()) {
+        } else if (!validatePassword()) {
             return;
         }
 

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c605eee0abf5ffe4f7dcd0288ee7eb17\AndroidManifest.xml:17:1-24:12
 MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\445a36890f3f3df5c68d05fbfcbc89ac\AndroidManifest.xml:2:1-16:12
 MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\library-2.0.3.aar\6c29d48bedd9a7db12a537faa2a7428f\AndroidManifest.xml:2:1-10:12
@@ -39,25 +39,25 @@ MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Herry\.gradle\ca
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\084213713a33685c389b3968b8366738\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\eec58b139b6292d08d137db3eb93c199\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e59141dfb0540487efd0db18d1df92ca\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:5:5-25:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c605eee0abf5ffe4f7dcd0288ee7eb17\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c605eee0abf5ffe4f7dcd0288ee7eb17\AndroidManifest.xml:22:5-20
 MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Herry\.gradle\caches\transforms-1\files-1.1\library-material-1.1.0.aar\445a36890f3f3df5c68d05fbfcbc89ac\AndroidManifest.xml:11:5-14:19
@@ -100,26 +100,22 @@ activity#com.android.herry.combile.SignUpVolunteerActivity
 ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:19:9-61
 	android:name
 		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:19:19-58
-activity#com.android.herry.combile.SignUpOrganization2Activity
-ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:20:9-65
-	android:name
-		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:20:19-62
 activity#com.android.herry.combile.SignInActivity
+ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.android.herry.combile.SignUpActivity
 ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:21:9-52
 	android:name
 		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:21:19-49
-activity#com.android.herry.combile.SignUpActivity
-ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:22:9-52
-	android:name
-		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:22:19-49
 activity#com.android.herry.combile.SignUpOrganization1Activity
-ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:23:9-65
+ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:22:9-65
 	android:name
-		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:23:19-62
-activity#com.android.herry.combile.tes
-ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:25:9-50
+		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:22:19-62
+activity#com.android.herry.combile.SignUpOrganizationActivity
+ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:24:9-73
 	android:name
-		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:25:19-38
+		ADDED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml:24:19-61
 uses-sdk
 INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Herry\AndroidStudioProjects\Combile\app\src\main\AndroidManifest.xml
