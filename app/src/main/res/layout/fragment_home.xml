@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentHome">
+
+
+    <RelativeLayout
+        android:id="@+id/Home_header"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/Action_Bar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/logo_combile" />
+
+
+        <TextView
+            android:id="@+id/Home_motto"
+            android:layout_width="400dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:paddingLeft="10dp"
+            android:layout_marginTop="50dp"
+            android:text="@string/Home_motto"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="30px"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/Home_Event"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="4dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="70dp"
+            android:hint="@string/Home_Event"
+            android:paddingLeft="2dp"
+            android:textSize="25px"
+            android:background="@drawable/dr_rectangle"/>
+
+        <EditText
+            android:id="@+id/Home_Date"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="242dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="70dp"
+            android:hint="@string/Home_Date"
+            android:inputType="date"
+            android:paddingLeft="2dp"
+            android:textSize="25px"
+            android:background="@drawable/dr_rectangle"/>
+
+        <EditText
+            android:id="@+id/Home_Location"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="157dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="70dp"
+            android:hint="@string/Home_Location"
+            android:paddingLeft="2dp"
+            android:textSize="30px"
+            android:background="@drawable/dr_rectangle"/>
+
+        <Button
+            android:id="@+id/Home_Search"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="314dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="70dp"
+            android:hint="@string/Home_Search"
+            android:paddingLeft="8dp"
+            android:textSize="15px" />
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listEvent"
+        android:layout_width="match_parent"
+        android:layout_height="432dp"
+        android:layout_marginTop="140dp"
+        android:scrollbars="vertical" />
+
+
+</FrameLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694899419410",
+    "firebase_url": "https://combile-635e8.firebaseio.com",
+    "project_id": "combile-635e8",
+    "storage_bucket": "combile-635e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694899419410:android:827b5c6cb6d8980a",
+        "android_client_info": {
+          "package_name": "com.android.herry.combile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694899419410-06lvcnnt7pahjp5vafscjii246sms50l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.herry.combile",
+            "certificate_hash": "5951a8fa04f37ca72e6e7fbc7e1c0fc08a6250b2"
+          }
+        },
+        {
+          "client_id": "694899419410-ijvgarqfja0daa1e65q16aitgkb75a5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0EC2jd-n_ftXDiVhCkG2XOCVNOw6MTLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694899419410-ijvgarqfja0daa1e65q16aitgkb75a5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
