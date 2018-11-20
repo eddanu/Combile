@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Combile</string>
+    <string name="Home_motto">Find Your Next Experience!</string>
+    <string name="Home_TEXT">disisni</string>
+    <string name="Home_Event">Event</string>
+    <string name="Home_Location">Location</string>
+    <string name="Home_Date">Date</string>
+    <string name="Home_Search">Search</string>
+    <string name="Home_Event_Detail">Over 1/3 of cat and dog owners dont have plan for their animals in case of emergency.Prep your neighbor for a disaster by equipping them with an emergency pet first-aid kit and other must-haves like a rescue alert sticker.
+    </string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="scheduler">Scheduler</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentHistory">Hello History fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
 </resources>

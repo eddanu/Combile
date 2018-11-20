@@ -85,8 +85,8 @@
                     android:layout_gravity="center"
                     android:alpha="0.4"
                     android:background="@drawable/dr_button_rounded"
-                    android:textColor="@color/black"
-                    android:onClick="confirmInputSignIn"/>
+                    android:textColor="@color/black">
+                </Button>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -99,6 +99,14 @@
 
         </LinearLayout>
     </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/signin_progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
 
 
 </RelativeLayout>

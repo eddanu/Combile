@@ -19,9 +19,8 @@
         <activity android:name=".SignUpVolunteerActivity" />
         <activity android:name=".SignInActivity" />
         <activity android:name=".SignUpActivity" />
-        <activity android:name=".SignUpOrganization1Activity" />
-        <activity android:name=".SignUpOrganization1Activity" />
-        <activity android:name=".SignUpOrganizationActivity"></activity>
+        <activity android:name=".SignUpOrganizationActivity" />
+        <activity android:name=".UtamaActivity"></activity>
     </application>
 
 </manifest>
